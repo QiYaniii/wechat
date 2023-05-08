@@ -15,10 +15,10 @@ export class TabItem {
 
 //底部导航栏数据
 const tabData:any[]=[
-  {'id':'1','name':'Home','imagePressed':$r('app.media.a2'),'imageNormal':$r('app.media.a1')},
-  {'id':'2','name':'Video','imagePressed':$r('app.media.b2'),'imageNormal':$r('app.media.b1')},
-  {'id':'3','name':'WallPaper','imagePressed':$r('app.media.c2'),'imageNormal':$r('app.media.c1')},
-  {'id':'4','name':'Person','imagePressed':$r('app.media.d2'),'imageNormal':$r('app.media.d1')}
+  {'id':'1','name':'微信','imagePressed':$r('app.media.a2'),'imageNormal':$r('app.media.a1')},
+  {'id':'2','name':'通讯录','imagePressed':$r('app.media.b2'),'imageNormal':$r('app.media.b1')},
+  {'id':'3','name':'发现','imagePressed':$r('app.media.c2'),'imageNormal':$r('app.media.c1')},
+  {'id':'4','name':'我','imagePressed':$r('app.media.d2'),'imageNormal':$r('app.media.d1')}
 ]
 
 //填充数据

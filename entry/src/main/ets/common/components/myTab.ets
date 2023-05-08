@@ -49,5 +49,6 @@ struct ItemBar {
     }.height('100%')
     .width('100%')
     .layoutWeight(1) //Flex布局容器下占据1个比重
+    .backgroundColor('#EDEDED')
   }
 }
